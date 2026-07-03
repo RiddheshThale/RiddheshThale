@@ -1,4 +1,4 @@
-````markdown
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Riddhesh%20Thale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20Building%20Scalable%20Applications&descAlignY=55&descSize=18"/>
 
 <p align="center">
