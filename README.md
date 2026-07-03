@@ -27,39 +27,99 @@
 - Data Structures & Algorithms
 
 
-# 🛠 Tech Stack
+<!-- ====================================================== -->
+<!--                  TECH STACK DASHBOARD                  -->
+<!-- ====================================================== -->
 
-## 💻 Languages
+<a name="-tech-stack"></a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,html,css,js"/>
-</p>
+## 🛠️ Tech Stack
 
-## 🎨 Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
-</p>
+> **Technologies I use to design, develop and secure modern applications.**
 
-## ⚙️ Backend
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
-</p>
+<br>
 
-## 🗄️ Database
+<table width="100%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+<tr>
 
-## 🧰 Tools & Platforms
+<td align="center" width="20%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker"/>
-</p>
+### 💻 Languages
 
----
+<img src="https://skillicons.dev/icons?i=java,python,js,c" /><br><br>
+
+`Java` • `Python` <br> `JavaScript` • `C`
+
+</td>
+
+<td align="center" width="20%">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,redux,html,css" /><br><br>
+
+`React.js` • `Redux` <br> `HTML5` • `CSS3`
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,maven,linux" /><br><br>
+
+`Spring` • `SpringBoot` <br> `REST APIs` • `Linux`
+
+</td>
+
+<td align="center" width="20%">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
+
+`MySQL`
+
+</td>
+
+<td align="center" width="20%">
+
+### 📚 Core CS
+
+🧩 DSA<br>
+🌐 CN<br>
+⚙️ OS<br>
+☕ OOPS
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="5" align="center">
+
+### 💻 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=idea" height="50"/>
+<img src="https://img.shields.io/badge/GPRM-181717?style=for-the-badge&logo=github&logoColor=white" height="50"/>
+
+</td>
+
+</tr>
+
+</table>
+<br><br>
+
+
 
 # 🚀 Featured Project
 
