@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm Riddhesh Thale
 
-🎓 Computer Engineering Student
+🎓  3rd Year Computer Engineering Student
 
 💻 Java Full Stack Developer focused on building real-world projects using modern Java technologies.
 
@@ -26,11 +26,6 @@
 - MySQL
 - Data Structures & Algorithms
 
-## 🎯 Career Goal
-
-Become a Java Full Stack Developer at a leading product-based company while continuously improving my software engineering, problem-solving, and full-stack development skills.
-
----
 
 # 🛠 Tech Stack
 
