@@ -13,10 +13,25 @@
 ---
 
 # 👋 Hi, I'm Riddhesh Thale
+## 👨‍💻 About Me
 
-🎓  3rd Year Computer Engineering Student
+🎓 I am a 3rd Year Computer Engineering student at Bharati Vidyapeeth College of Engineering, Navi Mumbai with a CGPA of **8.8**  
 
-💻 Java Full Stack Developer focused on building real-world projects using modern Java technologies.
+💻 Passionate about Full-Stack Development, Machine Learning, and Data analytics  
+
+⚙️ Currently working on Hibernate, REST APIs, and Backend System Development  
+
+🚀 Building secure, scalable, and user-focused software solutions with optimal performance  
+
+🔐 Interested in Java full stack development, Computer Networks, and designing websites   
+
+🌱 Constantly learning and improving every day  
+
+📚 Practicing Java and DSA regularly  
+
+🏆 Participated in SIH (Smart India Hackathon),  and Loop Hackathon   
+
+🛠️ Tech Stack: Java • Python • JavaScript • React.js • Spring Boot • Hibernate • MySQL • REST APIs • Git • GitHub • Postman  
 
 ## 🌱 Currently Learning
 
