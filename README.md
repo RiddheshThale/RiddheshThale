@@ -157,8 +157,38 @@ A Java Full Stack web application developed for skill development and training m
 ### 🔗 Repository
 
 https://github.com/RiddheshThale/Kaushalya
-
+Live Demo: https://kaushalya.vercel.app
+<br>
 ---
+<br>
+---
+⚛️ BEN_10
+
+A React.js learning project built to understand modern frontend development through reusable components and interactive UI design.
+
+🛠️ Tech Stack:
+React.js • JavaScript • HTML5 • CSS3 • Git • GitHub
+
+✨ Features:
+
+Functional Components
+React Hooks
+Component-based Architecture
+Responsive Design
+Client-side Routing
+Modern UI implementation
+Hands-on React development
+
+🔗 Links:
+
+Source Code:
+https://github.com/lakshsurve123/BEN_10
+<br>
+---
+<br>
+<br>
+<div align="center">
+
 
 # 📊 GitHub Stats
 
