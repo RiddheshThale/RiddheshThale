@@ -283,8 +283,6 @@ Live Demo: https://kaushalya.vercel.app
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
-
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
