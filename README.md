@@ -159,71 +159,91 @@ A Java Full Stack web application developed for skill development and training m
 https://github.com/RiddheshThale/Kaushalya
 Live Demo: https://kaushalya.vercel.app
 
-##⚛️ BEN_10
+<!-- ======================= GITHUB ANALYTICS ======================= -->
 
-A React.js learning project built to understand modern frontend development through reusable components and interactive UI design.
+<a name="github-analytics"></a>
 
-🛠️ Tech Stack:
-React.js • JavaScript • HTML5 • CSS3 • Git • GitHub
+# 📊 GitHub Analytics
 
-###✨ Features:
-
-Functional Components
-React Hooks
-Component-based Architecture
-Responsive Design
-Client-side Routing
-Modern UI implementation
-Hands-on React development
-
-🔗 Links:
-
-Source Code:
-https://github.com/lakshsurve123/BEN_10
-<br>
----
-<br>
-<br>
 <div align="center">
 
+### 🚀 Tracking my coding journey, contributions, and continuous growth.
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiddheshThale&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddheshThale&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+## 📈 GitHub Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RiddheshThale&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RiddheshThale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddheshThale&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RiddheshThale&theme=tokyo-night"/>
-
-</p>
+<br>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RiddheshThale&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiddheshThale&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
+
+<br>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RiddheshThale&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+<br>
+
+---
+
+## 📊 Coding Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiddheshThale&theme=tokyonight"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RiddheshThale&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RiddheshThale&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RiddheshThale&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiddheshThale&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+---
+
+
 
 # 📈 Current Focus
 
