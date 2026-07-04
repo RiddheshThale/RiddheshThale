@@ -173,19 +173,7 @@ Live Demo: https://kaushalya.vercel.app
 
 ---
 
-## 📈 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RiddheshThale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddheshThale&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -198,16 +186,6 @@ Live Demo: https://kaushalya.vercel.app
 <br>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RiddheshThale&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
-<br>
 
 ---
 
